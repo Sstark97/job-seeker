@@ -1,6 +1,6 @@
 import React from "react";
-import "../assets/styles/containers/main.css";
+import { MainContainer } from "../assets/styles/containers/MainContainer";
 
-const Main = ({ children }) => <div className="container">{children}</div>;
+const Main = ({ children }) => <MainContainer>{children}</MainContainer>;
 
 export default Main;

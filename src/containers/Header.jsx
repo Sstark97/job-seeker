@@ -1,10 +1,10 @@
 import React from "react";
-import "../assets/styles/containers/header.css";
+import { HeaderContainer } from "../assets/styles/containers/HeaderContainer";
 
 const Header = () => (
-  <div className="container">
+  <HeaderContainer>
     <h2>These is The Header</h2>{" "}
-  </div>
+  </HeaderContainer>
 );
 
 export default Header;

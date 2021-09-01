@@ -1,6 +1,10 @@
 import React from "react";
-import "../assets/styles/containers/footer.css";
+import { FooterContainer } from "../assets/styles/containers/FooterContainer";
 
-const Footer = () => <h2> Created by Aitor Santana, these is the footer </h2>;
+const Footer = () => (
+  <FooterContainer>
+    <h2> Created by Aitor Santana, these is the footer </h2>
+  </FooterContainer>
+);
 
 export default Footer;

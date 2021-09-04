@@ -1,0 +1,934 @@
+[
+    {
+        "id": "2388514330",
+        "name": "Group Manager",
+        "location": {
+            "area": [
+                "UK",
+                "South West England",
+                "Dorset",
+                "Bournemouth"
+            ],
+            "display_name": "Bournemouth, Dorset",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Hospitality & Catering Jobs",
+        "created": "2021-08-17T14:58:18Z",
+        "company": "Chartwells",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2371344396",
+        "name": "Shift Mechanical Engineer",
+        "location": {
+            "display_name": "Matlock, Derbyshire",
+            "area": [
+                "UK",
+                "East Midlands",
+                "Derbyshire",
+                "Matlock"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Engineering Jobs",
+        "created": "2021-08-09T20:09:23Z",
+        "company": "Pioneer Selection",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2319904304",
+        "name": "Full Stack Wordpress Developer",
+        "location": {
+            "area": [
+                "UK",
+                "Eastern England",
+                "Hertfordshire",
+                "Ware"
+            ],
+            "display_name": "Ware, Hertfordshire",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "IT Jobs",
+        "created": "2021-07-15T13:47:26Z",
+        "company": "Making Websites Better Ltd",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2378338903",
+        "name": "Specialist Huntingtons Disease Co-ordinator",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Nottingham, Nottinghamshire",
+            "area": [
+                "UK",
+                "East Midlands",
+                "Nottinghamshire",
+                "Nottingham"
+            ]
+        },
+        "category": "Healthcare & Nursing Jobs",
+        "created": "2021-08-12T13:56:29Z",
+        "company": "Nottingham CityCare Partnership CIC",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2358845418",
+        "name": "IT Security Engineer",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "The City, Central London",
+            "area": [
+                "UK",
+                "London",
+                "Central London",
+                "The City"
+            ]
+        },
+        "category": "IT Jobs",
+        "created": "2021-08-03T19:19:56Z",
+        "company": "CMC Markets UK Plc",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2390447350",
+        "name": "High Speed Video Technician",
+        "location": {
+            "display_name": "Berkshire, South East England",
+            "area": [
+                "UK",
+                "South East England",
+                "Berkshire"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Engineering Jobs",
+        "created": "2021-08-18T13:46:25Z",
+        "company": "AWE Plc",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2301318357",
+        "name": "Prison Officer",
+        "location": {
+            "display_name": "Newport Pagnell, Buckinghamshire",
+            "area": [
+                "UK",
+                "South East England",
+                "Buckinghamshire",
+                "Newport Pagnell"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Admin Jobs",
+        "created": "2021-07-06T06:06:51Z",
+        "company": "HM Prison & Probation Services",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2382107906",
+        "name": "Night Nurse (RGN)",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "Kent",
+                "Sevenoaks"
+            ],
+            "display_name": "Sevenoaks, Kent"
+        },
+        "category": "Healthcare & Nursing Jobs",
+        "created": "2021-08-14T02:44:28Z",
+        "company": "Barchester Healthcare",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2393994937",
+        "name": "Care Assistant - Bank",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South West England",
+                "Bristol"
+            ],
+            "display_name": "Bristol, South West England"
+        },
+        "category": "Healthcare & Nursing Jobs",
+        "created": "2021-08-19T19:50:45Z",
+        "company": "BARCHESTER HEALTHCARE LTD",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2376361745",
+        "name": "Portable Appliance Test Engineer",
+        "location": {
+            "display_name": "Aberdeen, Aberdeenshire",
+            "area": [
+                "UK",
+                "Scotland",
+                "Aberdeenshire",
+                "Aberdeen"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Engineering Jobs",
+        "created": "2021-08-11T19:38:36Z",
+        "company": "phs Group",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2375379255",
+        "name": "Part time nanny needed in East Finsbury",
+        "location": {
+            "area": [
+                "UK",
+                "London",
+                "Central London",
+                "Clerkenwell"
+            ],
+            "display_name": "Clerkenwell, Central London",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Part time Jobs",
+        "created": "2021-08-11T13:09:43Z",
+        "company": "Koru Kids",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2387088113",
+        "name": "Deputy General Manager (Clinical)",
+        "location": {
+            "display_name": "Chichester, West Sussex",
+            "area": [
+                "UK",
+                "South East England",
+                "West Sussex",
+                "Chichester"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Healthcare & Nursing Jobs",
+        "created": "2021-08-17T03:21:45Z",
+        "company": "Barchester Healthcare",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2394001036",
+        "name": "Innovation Director",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "South East England",
+                "Hampshire",
+                "Lee-On-The-Solent"
+            ],
+            "display_name": "Lee-On-The-Solent, Hampshire"
+        },
+        "category": "Consultancy Jobs",
+        "created": "2021-08-19T19:58:15Z",
+        "company": "Oxford Innovation",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2344386577",
+        "name": "Client Manager",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Leeds, Maidstone",
+            "area": [
+                "UK",
+                "South East England",
+                "Kent",
+                "Maidstone",
+                "Leeds"
+            ]
+        },
+        "category": "Social work Jobs",
+        "created": "2021-07-27T18:55:36Z",
+        "company": "City & County Healthcare Group",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2371344798",
+        "name": "Shift Manager",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Paisley, Renfrewshire",
+            "area": [
+                "UK",
+                "Scotland",
+                "Renfrewshire",
+                "Paisley"
+            ]
+        },
+        "category": "Hospitality & Catering Jobs",
+        "created": "2021-08-09T20:09:26Z",
+        "company": "Tim Hortons",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2373275950",
+        "name": "Senior Talent Acquisition Business Partner",
+        "location": {
+            "area": [
+                "UK",
+                "West Midlands",
+                "Shropshire",
+                "Telford"
+            ],
+            "display_name": "Telford, Shropshire",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "HR & Recruitment Jobs",
+        "created": "2021-08-10T14:28:43Z",
+        "company": "Lyreco",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2305654875",
+        "name": "Bar Staff",
+        "location": {
+            "display_name": "South West London, London",
+            "area": [
+                "UK",
+                "London",
+                "South West London"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Hospitality & Catering Jobs",
+        "created": "2021-07-08T10:04:34Z",
+        "company": "Coople",
+        "contract_type": "permanent",
+        "contract_time": "Part Time "
+    },
+    {
+        "id": "2381450649",
+        "name": "Insurance Software Tester",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Liverpool, Merseyside",
+            "area": [
+                "UK",
+                "North West England",
+                "Merseyside",
+                "Liverpool"
+            ]
+        },
+        "category": "IT Jobs",
+        "created": "2021-08-13T18:57:10Z",
+        "company": "Acorn Insurance Financial Services Ltd.",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2313643402",
+        "name": "Warehouse Operative",
+        "location": {
+            "display_name": "Clevedon, North Somerset",
+            "area": [
+                "UK",
+                "South West England",
+                "North Somerset",
+                "Clevedon"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Logistics & Warehouse Jobs",
+        "created": "2021-07-12T17:44:34Z",
+        "company": "Adecco",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2355355147",
+        "name": "Business Development Manager - Laundry, Capital Equipment",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Staffordshire, West Midlands",
+            "area": [
+                "UK",
+                "West Midlands",
+                "Staffordshire"
+            ]
+        },
+        "category": "Sales Jobs",
+        "created": "2021-08-02T13:15:19Z",
+        "company": "Crossley Scott",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2349590158",
+        "name": "Carer",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber"
+            ],
+            "display_name": "Yorkshire And The Humber, UK"
+        },
+        "category": "Healthcare & Nursing Jobs",
+        "created": "2021-07-30T13:35:07Z",
+        "company": "Elder Technologies",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2269481943",
+        "name": "Market Research Interviewer",
+        "location": {
+            "display_name": "Hemingford Abbots, Huntingdon",
+            "area": [
+                "UK",
+                "Eastern England",
+                "Cambridgeshire",
+                "Huntingdon",
+                "Hemingford Abbots"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Sales Jobs",
+        "created": "2021-06-21T19:10:59Z",
+        "company": "Ipsos Mori",
+        "contract_type": "contract",
+        "contract_time": "Full Time "
+    },
+    {
+        "id": "2396130058",
+        "name": "Care Assistant",
+        "location": {
+            "display_name": "Reading, Berkshire",
+            "area": [
+                "UK",
+                "South East England",
+                "Berkshire",
+                "Reading"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Social work Jobs",
+        "created": "2021-08-20T15:37:08Z",
+        "company": "Mulberry Care",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2361210792",
+        "name": "NetSuite Developer",
+        "location": {
+            "display_name": "Cirencester, Gloucestershire",
+            "area": [
+                "UK",
+                "South West England",
+                "Gloucestershire",
+                "Cirencester"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "IT Jobs",
+        "created": "2021-08-04T18:58:56Z",
+        "company": "Hardware UK Ltd",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2350413803",
+        "name": "Registered Manager",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Hove, East Sussex",
+            "area": [
+                "UK",
+                "South East England",
+                "East Sussex",
+                "Hove"
+            ]
+        },
+        "category": "Healthcare & Nursing Jobs",
+        "created": "2021-07-31T00:32:04Z",
+        "company": "Achieve together",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2390448743",
+        "name": "Advice Framework Manager",
+        "location": {
+            "display_name": "UK",
+            "area": [
+                "UK"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Accounting & Finance Jobs",
+        "created": "2021-08-18T13:46:52Z",
+        "company": "Schroders Personal Wealth",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2378339317",
+        "name": "Software Engineer",
+        "location": {
+            "display_name": "Edinburgh, Scotland",
+            "area": [
+                "UK",
+                "Scotland",
+                "Edinburgh"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "IT Jobs",
+        "created": "2021-08-12T13:56:32Z",
+        "company": "Sopra Steria Limited",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2343879180",
+        "name": "Personalized Internet Assessor",
+        "location": {
+            "area": [
+                "UK",
+                "London",
+                "South East London"
+            ],
+            "display_name": "South East London, London",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "IT Jobs",
+        "created": "2021-07-27T13:04:25Z",
+        "company": "Telus International",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2350051627",
+        "name": "Care Assistant",
+        "location": {
+            "area": [
+                "UK",
+                "South East England",
+                "Hampshire",
+                "Fareham"
+            ],
+            "display_name": "Fareham, Hampshire",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Social work Jobs",
+        "created": "2021-07-30T19:40:09Z",
+        "company": "Helping Hands Homecare",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2387061691",
+        "name": "Supervisor",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber",
+                "South Yorkshire",
+                "Rotherham"
+            ],
+            "display_name": "Rotherham, South Yorkshire"
+        },
+        "category": "Hospitality & Catering Jobs",
+        "created": "2021-08-17T02:42:10Z",
+        "company": "MediRest",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2355273789",
+        "name": "Trainee Driving Instructor",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Dunmow, Essex",
+            "area": [
+                "UK",
+                "Eastern England",
+                "Essex",
+                "Dunmow"
+            ]
+        },
+        "category": "Sales Jobs",
+        "created": "2021-08-02T12:24:08Z",
+        "company": "Red Driving School",
+        "contract_type": "",
+        "contract_time": "Part Time "
+    },
+    {
+        "id": "2361210244",
+        "name": "Health & Social Care Assessor / Coach - Home Based / Remote Position",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Eastern England",
+                "Hertfordshire",
+                "Stevenage"
+            ],
+            "display_name": "Stevenage, Hertfordshire"
+        },
+        "category": "Teaching Jobs",
+        "created": "2021-08-04T18:58:48Z",
+        "company": "CareShield LTD",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2400978515",
+        "name": ".NET Developer - Social Messaging Platform - Farnborough",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Farnborough, Hampshire",
+            "area": [
+                "UK",
+                "South East England",
+                "Hampshire",
+                "Farnborough"
+            ]
+        },
+        "category": "IT Jobs",
+        "created": "2021-08-23T07:18:31Z",
+        "company": "Noir",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2366196492",
+        "name": "Apprentice Hire Controller",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber",
+                "East Riding Of Yorkshire",
+                "Hull"
+            ],
+            "display_name": "Hull, East Riding Of Yorkshire"
+        },
+        "category": "Customer Services Jobs",
+        "created": "2021-08-06T20:58:51Z",
+        "company": "GAP GROUP PROPERTIES LIMITED",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2328597777",
+        "name": "Live -in PA /Carer /Support worker /Driver /Personal care /Graduate -",
+        "location": {
+            "display_name": "Southampton, Hampshire",
+            "area": [
+                "UK",
+                "South East England",
+                "Hampshire",
+                "Southampton"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Graduate Jobs",
+        "created": "2021-07-19T19:22:49Z",
+        "company": "Ask Jules",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2345687935",
+        "name": "Risk Manager",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "East London, London",
+            "area": [
+                "UK",
+                "London",
+                "East London"
+            ]
+        },
+        "category": "Accounting & Finance Jobs",
+        "created": "2021-07-28T12:53:00Z",
+        "company": "Citi UK",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2393180592",
+        "name": "Platform Engineer AWS Golang Python",
+        "location": {
+            "display_name": "South West London, London",
+            "area": [
+                "UK",
+                "London",
+                "South West London"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "IT Jobs",
+        "created": "2021-08-19T14:28:48Z",
+        "company": "Devops Team",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2316020606",
+        "name": "Financial Risk Oversight Manager (2244)",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Gloucester, Gloucestershire",
+            "area": [
+                "UK",
+                "South West England",
+                "Gloucestershire",
+                "Gloucester"
+            ]
+        },
+        "category": "Accounting & Finance Jobs",
+        "created": "2021-07-13T20:29:43Z",
+        "company": "Ecclesiastical Insurance",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2373393621",
+        "name": "Electrician",
+        "location": {
+            "area": [
+                "UK",
+                "Scotland",
+                "Aberdeenshire",
+                "Ellon"
+            ],
+            "display_name": "Ellon, Aberdeenshire",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Trade & Construction Jobs",
+        "created": "2021-08-10T15:42:04Z",
+        "company": "Checkatrade",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2391738457",
+        "name": "Power Platform Specialist",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK"
+            ],
+            "display_name": "UK"
+        },
+        "category": "IT Jobs",
+        "created": "2021-08-19T01:23:46Z",
+        "company": "SSE PLC",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2397126240",
+        "name": "Health Care Assistant - Nights",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "North East England",
+                "Tyne & Wear",
+                "North Shields"
+            ],
+            "display_name": "North Shields, Tyne & Wear"
+        },
+        "category": "Social work Jobs",
+        "created": "2021-08-21T02:22:19Z",
+        "company": "Akari Care",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2391112414",
+        "name": "Supervisor",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "Yorkshire And The Humber"
+            ],
+            "display_name": "Yorkshire And The Humber, UK"
+        },
+        "category": "Hospitality & Catering Jobs",
+        "created": "2021-08-18T19:23:53Z",
+        "company": "Bella Italia",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2346331838",
+        "name": "Corporate Account Support Manager",
+        "location": {
+            "display_name": "Aylesbury, Buckinghamshire",
+            "area": [
+                "UK",
+                "South East England",
+                "Buckinghamshire",
+                "Aylesbury"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Accounting & Finance Jobs",
+        "created": "2021-07-28T18:32:59Z",
+        "company": "Biffa",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2374239940",
+        "name": "Registered Nurse",
+        "location": {
+            "display_name": "South West London, London",
+            "area": [
+                "UK",
+                "London",
+                "South West London"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "Healthcare & Nursing Jobs",
+        "created": "2021-08-11T01:00:58Z",
+        "company": "Care UK",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2391112011",
+        "name": "Productivity & Desktop Engineering Analyst",
+        "location": {
+            "area": [
+                "UK",
+                "Eastern England",
+                "Essex",
+                "Harlow"
+            ],
+            "display_name": "Harlow, Essex",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": "IT Jobs",
+        "created": "2021-08-18T19:23:26Z",
+        "company": "Raytheon",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2330589786",
+        "name": "Care Assistant - Nights",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Stratford-Upon-Avon, Warwickshire",
+            "area": [
+                "UK",
+                "West Midlands",
+                "Warwickshire",
+                "Stratford-Upon-Avon"
+            ]
+        },
+        "category": "Healthcare & Nursing Jobs",
+        "created": "2021-07-20T15:13:46Z",
+        "company": "Avery Healthcare Ltd",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2373882608",
+        "name": "Extra Care Support Worker",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Derby, Derbyshire",
+            "area": [
+                "UK",
+                "East Midlands",
+                "Derbyshire",
+                "Derby"
+            ]
+        },
+        "category": "Healthcare & Nursing Jobs",
+        "created": "2021-08-10T20:16:11Z",
+        "company": "CRT Care Services",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2360576601",
+        "name": "Supervisor",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "UK",
+                "West Midlands",
+                "Dudley",
+                "Swindon"
+            ],
+            "display_name": "Swindon, Dudley"
+        },
+        "category": "Retail Jobs",
+        "created": "2021-08-04T13:53:49Z",
+        "company": "Crew Clothing",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2376364029",
+        "name": "Product Actuary",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Peterborough, Eastern England",
+            "area": [
+                "UK",
+                "Eastern England",
+                "Peterborough"
+            ]
+        },
+        "category": "Accounting & Finance Jobs",
+        "created": "2021-08-11T19:38:50Z",
+        "company": "BGL Group Ltd",
+        "contract_type": "",
+        "contract_time": ""
+    },
+    {
+        "id": "2378992772",
+        "name": "IT Support Technician",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Carlisle, Cumbria",
+            "area": [
+                "UK",
+                "North West England",
+                "Cumbria",
+                "Carlisle"
+            ]
+        },
+        "category": "IT Jobs",
+        "created": "2021-08-12T19:09:02Z",
+        "company": "Story Homes",
+        "contract_type": "",
+        "contract_time": ""
+    }
+]

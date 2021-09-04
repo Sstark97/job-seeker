@@ -1,9 +1,13 @@
 import React from "react";
-import { HeaderContainer } from "../assets/styles/containers/HeaderContainer";
+import {
+  HeaderContainer,
+  HeaderText,
+} from "../assets/styles/containers/HeaderContainer";
 
 const Header = () => (
   <HeaderContainer>
-    <h2>These is The Header</h2>{" "}
+    <HeaderText>Github</HeaderText>
+    Jobs
   </HeaderContainer>
 );
 

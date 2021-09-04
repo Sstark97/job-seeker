@@ -20,5 +20,6 @@ export const GlobalStyles = createGlobalStyle`
     flex-direction: center;
     height: 100%;
     width: 100%;
+    background: #f6f7fb;
   }
 `;
